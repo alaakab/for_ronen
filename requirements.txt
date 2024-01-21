@@ -1,3 +1,4 @@
 highdicom
 tensorflow
 scikit-image
+grpcio
