@@ -2,3 +2,5 @@ highdicom
 tensorflow
 scikit-image
 grpcio
+torch
+pytorch
